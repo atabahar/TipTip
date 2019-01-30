@@ -1,8 +1,8 @@
-# Pre-work - *Name of App Here*
+# Pre-work - TipTip
 
-**Name of your app** is a tip calculator application for iOS.
+TipTip is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Ata Bahar 
 
 Time spent: **X** hours spent in total
 
@@ -10,7 +10,7 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
